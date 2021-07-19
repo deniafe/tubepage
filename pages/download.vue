@@ -27,12 +27,12 @@
               aria-hidden="true"
             ></i>
             <a
-              href="https://github.com/deniafe/tubely/releases/download/v0.2.0/tubely-Setup-0.2.0.exe"
+              href="https://github.com/deniafe/tubely/releases/download/v0.2.1/tubely-Setup-0.2.1.exe"
               rel="nofollow"
               class="w-full px-3 py-4 font-medium text-lg text-primary focus:outline-none underline"
               @click="clicked = true"
             >
-              tubely-Setup-0.2.0.exe
+              tubely-Setup-0.2.1.exe
             </a>
           </div>
           <h6
