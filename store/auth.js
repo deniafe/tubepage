@@ -93,7 +93,8 @@ export default {
                     token,
                     uniqueLink: res,
                     membership: {
-                      expiry: '',
+                      startDate: '',
+                      endDate: '',
                       interval: '',
                       plan: 'free',
                     },
